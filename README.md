@@ -6,11 +6,15 @@ Project is separated into:
 
 ### How to run
 
+1. Install live server: npm install -g live-server 
+2. Install mongodb - on macos: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x
+3. Use correct version of node - tested on node 9.0.0
+
 Go to front folder and run:
 ```sh
 $ npm install
 $ npm run watch
-$ npm live-server //in next console tab
+$ live-server --entry-file=index.js //in next console tab
 ```
 
 Go to api folder and run:
