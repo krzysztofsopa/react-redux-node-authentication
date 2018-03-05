@@ -8,7 +8,7 @@ Project is separated into:
 
 1. Install live server: npm install -g live-server 
 2. Install mongodb - on macos: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x
-3. Use correct version of node - tested on node 9.0.0
+3. Use correct version of node - tested on node 9.0.0 - can be easily done with https://github.com/creationix/nvm
 
 Go to front folder and run:
 ```sh
@@ -27,6 +27,9 @@ Or just type to open frontend and api part of project in separate terminal tabs 
 ```sh
 $ ./start.sh
 ```
+
+### Next steps
+configure application with docker
 
 ### Demo application:
 https://guarded-sea-39932.herokuapp.com/#/

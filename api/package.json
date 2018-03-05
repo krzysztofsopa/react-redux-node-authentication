@@ -17,7 +17,7 @@
     "bluebird": "3.4.0",
     "body-parser": "1.15.1",
     "bson": "0.4.23",
-    "ejs": "^2.5.4",
+    "ejs": "^2.5.7",
     "express": "4.13.4",
     "jsonwebtoken": "7.0.0",
     "lodash": "4.13.1",
