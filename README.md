@@ -13,7 +13,11 @@ Project is separated into:
 Go to front folder and run:
 ```sh
 $ npm install
-$ npm run watch
+$ npm run build
+```
+
+Go to dist folder and run:
+```
 $ live-server --entry-file=index.js //in next console tab
 ```
 
